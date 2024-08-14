@@ -1,9 +1,9 @@
 
 <img width="337" alt="logo" src="https://github.com/user-attachments/assets/02f33549-d296-4655-b401-493f64347e3a">
 
-# MyHostel
+# CloudComplaint
 
-My Hostel is a hostel complaint, Services leaving filling application. It was designed with primary objective of easing the filling and maintenance of complaints by the students and management respectively. It saves a lot of time and reduces a great deal of paper work.
+CloudComplaint is a hostel complaint, Services leaving filling application. It was designed with primary objective of easing the filling and maintenance of complaints by the students and management respectively. It saves a lot of time and reduces a great deal of paper work.
 
 
 ### Screenshots
