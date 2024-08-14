@@ -1,4 +1,5 @@
-<img src="https://ibb.co/yp7w0Gb" alt="Cloud Complaint" width="60"/>
+
+<img width="337" alt="logo" src="https://github.com/user-attachments/assets/02f33549-d296-4655-b401-493f64347e3a">
 
 # MyHostel
 
